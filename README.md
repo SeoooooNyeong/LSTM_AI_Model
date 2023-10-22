@@ -64,17 +64,21 @@
 - 결측치 처리 : 시간열 데이터이므로 이전 값으로 대체
 
 ##**df.corr()** : 데이터프레임의 각 열간의 상관 관계를 계산하기 위해 사용되는 메소드
+
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/c1ac5cd4-6d60-45c7-b8f9-9c44629c57c6" width="400px">
 
 ## **Model** : LSTM 모델
+
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/5ca7c780-735c-4a84-8ba7-2dc3c3b80857" width="400px">
 
 ## **MAE*
 - predicted 열 : 예측 데이터
 - actual 열 : 실제 데이터
 - difference : 예측 데이터와 실제 데이터의 차이
+- 
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/bb8440dc-5320-4ea2-baef-8293f5f39ac5" width="400px">
 
 - MAE : 95
+- 
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/f442c75a-5fe5-4bf1-b02c-1e79b1ec3bfa" width="400px">
 
