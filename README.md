@@ -43,7 +43,7 @@
 
 ### **인구** : 김천시 인구 변화
 
-  <img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/e155f3ba-aee3-4f57-bbe8-6d97c6537c56" width="650px">
+<img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/e155f3ba-aee3-4f57-bbe8-6d97c6537c56" width="650px">
 
 ### **날씨** : 기온 , 강수량 , 습도
 
