@@ -43,11 +43,11 @@
 
 ### **인구** : 김천시 인구 변화
 
-<img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/e155f3ba-aee3-4f57-bbe8-6d97c6537c56" width="650px">
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/e155f3ba-aee3-4f57-bbe8-6d97c6537c56" width="650px">
 
 ### **날씨** : 기온 , 강수량 , 습도
 
-<img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/2a2f9da1-a4f1-4004-bf66-00b07583bf2b
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/2a2f9da1-a4f1-4004-bf66-00b07583bf2b
 " width="650px">
 
 ### **cos_24_1** : 시간에 대한 코사인 값
@@ -56,7 +56,7 @@
   
 - 시간에 따른 변동성을 나타내는 특징이므로, 시계열 데이터의 적산차 예측에 사용
 
-<img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/d9e126f5-f07d-4dc8-a201-c92f5937d823
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/d9e126f5-f07d-4dc8-a201-c92f5937d823
 " width="650px">
 
 ## **이상치&결측치**
@@ -64,17 +64,17 @@
 - 결측치 처리 : 시간열 데이터이므로 이전 값으로 대체
 
 ##**df.corr()** : 데이터프레임의 각 열간의 상관 관계를 계산하기 위해 사용되는 메소드
-  <img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/c1ac5cd4-6d60-45c7-b8f9-9c44629c57c6" width="650px">
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/c1ac5cd4-6d60-45c7-b8f9-9c44629c57c6" width="650px">
 
 ## **Model** : LSTM 모델
-  <img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/5ca7c780-735c-4a84-8ba7-2dc3c3b80857" width="650px">
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/5ca7c780-735c-4a84-8ba7-2dc3c3b80857" width="650px">
 
 ## **MAE*
 - predicted 열 : 예측 데이터
 - actual 열 : 실제 데이터
 - difference : 예측 데이터와 실제 데이터의 차이
-  <img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/bb8440dc-5320-4ea2-baef-8293f5f39ac5" width="650px">
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/bb8440dc-5320-4ea2-baef-8293f5f39ac5" width="650px">
 
 - MAE : 95
-  <img src = "./img/2_8.jpeg" width="40%"> <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/f442c75a-5fe5-4bf1-b02c-1e79b1ec3bfa" width="400px">
+<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/f442c75a-5fe5-4bf1-b02c-1e79b1ec3bfa" width="400px">
 
