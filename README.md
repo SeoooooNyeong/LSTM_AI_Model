@@ -75,10 +75,10 @@
 - predicted 열 : 예측 데이터
 - actual 열 : 실제 데이터
 - difference : 예측 데이터와 실제 데이터의 차이
-- 
+ 
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/bb8440dc-5320-4ea2-baef-8293f5f39ac5" width="400px">
 
 - MAE : 95
-- 
+  
 <img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/f442c75a-5fe5-4bf1-b02c-1e79b1ec3bfa" width="400px">
 
